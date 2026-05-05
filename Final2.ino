@@ -3,8 +3,8 @@
 #include <WiFiNINA.h>
 
 // WiFi 名稱與密碼
-#define SECRET_SSID "WindyWifi"//Wifi名稱
-#define SECRET_PASS "huang0801"//Wifi密碼
+#define SECRET_SSID "Wifi"//Wifi名稱
+#define SECRET_PASS "WifiPassword"//Wifi密碼
 
 // LED矩陣控制函式庫
 #include <LedControl.h>
